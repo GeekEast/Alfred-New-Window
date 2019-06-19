@@ -3,7 +3,7 @@
 ### Hyper
 Use keyword `nh` to create a new window of Hyper in MacOS
 
-### Vs-cdoe
+### Vs-Code
 use keyword `nv` to create a new window of vscode in MacOS
 
 ### Useful Resources
